@@ -5,7 +5,7 @@ A dynamic SaaS-based utility designed to simplify the job application process by
 
 🔗 Important Links
 Live Website:https://sprint4-cover-letter-generator-odkf.vercel.app/
-Demo Video: 
+Demo Video: https://github.com/shri131010-ui/sprint4--cover-letter-generator/blob/main/sprint4.png
 📸 Screenshot-->
 
 ## Tech Stack
